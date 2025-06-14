@@ -1,116 +1,163 @@
-# Atividades de Informática
-Este repositório contém as atividades realizadas durante o curso de Logística na Fatec SJC. Cada atividade aborda tópicos importantes relacionados a análise de dados, programação, aplicativos como Power BI, Excel, Power Apps, dentre outros...
+# 💻 Atividades de Informática | Fatec SJC
+
+Este repositório reúne as atividades desenvolvidas na disciplina de Informática aplicada à Logística, durante o 1º semestre na Fatec São José dos Campos.  
+
+As atividades abrangem temas como análise de dados, visualização com dashboards, automação de processos, banco de dados, desenvolvimento de aplicativos e utilização de ferramentas como Excel, Power BI, Power Apps e MySQL.
 
 ---
 
-## Sobre este Repositório
-Aqui você encontrará:
-- 11 atividades organizadas por ordem de execução.
-- Resultados obtidos para cada tarefa e seus respectivos arquivos.
-- O objetivo de cada atividade e como foi desenvolvida.
+## 🗂️ Sobre este repositório
 
-- **Autor:** Fernanda Sant Ana da Silva
-- **Contato:** fesilva3524@gmail.com
-- **Propósito:** Registro das atividades para estudo e consulta.
+Aqui você encontrará:  
+✔️ 11 atividades organizadas por ordem de execução.  
+✔️ Objetivos, metodologia e resultados obtidos em cada tarefa.  
+✔️ Arquivos, dashboards, planilhas e capturas de tela das entregas.
 
 ---
 
-# Sumario
-- [1ª Atividade](#1ª-atividade)
-- [2ª Atividade](#2ª-atividade)
-- [3ª Atividade](#3ª-atividade)
-- [4ª Atividade](#4ª-atividade)
-- [5ª Atividade](#5ª-atividade)
-- [6ª Atividade](#6ª-atividade)
-- [7ª Atividade](#7ª-atividade)
-- [8ª Atividade](#8ª-atividade)
-- [9ª Atividade](#9ª-atividade)
-- [10ª Atividade](#10ª-atividade)
-- [11ª Atividade](#11ª-atividade)
+## 👩‍💻 Autor
+
+- **Fernanda Sant Ana da Silva**  
+- 📧 **Contato:** fesilva3524@gmail.com  
+- 🔗 [LinkedIn](https://www.linkedin.com/in/fernanda-sant-ana-57a910326/) | [GitHub](https://github.com/Fernanda0122)  
+- 🎯 **Objetivo:** Registro de desenvolvimento acadêmico e evolução profissional.
 
 ---
 
-# 1ª Atividade
-Realizamos nossa apresentação pessoal de maneira interativa com perguntas para a sala. Os slides foram feitos no Canva e o nosso grupo era composto por 7 pesssoas (Fernanda, Alana, Felipe, Juan, Cauan, Caue e Pedro). Não possuo o arquivo da apresentação.
+## 📑 Sumário
 
-# 2ª Atividade
-Fiz uma planilha de gastos mensais no excel, utilizando as fórmulas: SOMASE ; SOMA ; SE e CONT.SE.
-## Modelo da Planilha:
-![WhatsApp Image 2024-10-04 at 20 01 51](https://github.com/user-attachments/assets/0cce4aa2-94b3-4488-9f66-bafb9beb9f9d)
-Arquivo : [Controle de gastos.xlsx](https://github.com/user-attachments/files/17264378/Controle.de.gastos.xlsx)
+- [1ª Atividade – Apresentação](1ª-atividade)
+- [2ª Atividade – Controle de Gastos no Excel](2ª-atividade)
+- [3ª Atividade – Análise de Alunos Estrangeiros](3ª-atividade)
+- [4ª Atividade – Análise de Dados da Rede Estadual](4ª-atividade)
+- [5ª Atividade – Dashboard Power BI - Vendas por Município](5ª-atividade)
+- [6ª Atividade – Dashboard Power BI - Alunos Estrangeiros](6ª-atividade)
+- [7ª Atividade – Dashboard Power BI - Dados Rede Estadual](7ª-atividade)
+- [8ª Atividade – Power BI - Análise de Vendas](8ª-atividade)
+- [9ª Atividade – Análise de Metas com KPIs no Power BI](9ª-atividade)
+- [10ª Atividade – Desenvolvimento de App no Power Apps](10ª-atividade)
+- [11ª Atividade – Análise de Dados sobre Docentes](11ª-atividade)
 
-# 3ª Atividade
-Utilizando os dados da planilha "Quantidade de alunos estrangeiros por nacionalidade_2° Semestre 2023" e respondi as 4 perguntas da professora:
-1) Quantos alunos existem de cada país, considerando todas as escolas? 
-2) Quantas nacionalidades de alunos existem em cada escola?
-3) Quantas nacionalidades de alunos existem em cada município?
-4) Qual nacionalidade está com maior número de alunos presentes no estado de São Paulo?
-Fórmulas utilizadas: SOMA ; CONT.SE ; SOMASE  ; CONCAT e MAIOR.
-## Modelos dos gráficos:
-![WhatsApp Image 2024-10-04 at 20 22 12](https://github.com/user-attachments/assets/9bb45f28-9a14-4efb-b51a-575aad1902bc)![WhatsApp Image 2024-10-04 at 20 22 12 (1)](https://github.com/user-attachments/assets/9248d1a1-d1ef-40ce-bc47-cd54cce78dad)![WhatsApp Image 2024-10-04 at 20 22 12 (2)](https://github.com/user-attachments/assets/29524a99-c05a-49b9-aeb8-a8defe075308)
-Arquivo : [Atividade Informatica #3.xlsx](https://github.com/user-attachments/files/17264442/Atividade.Informatica.3.xlsx)
+---
 
-# 4ª Atividade
-Utilizando os dados do site .GOV com o seguinte tema "Quantidade de alunos por tipo de ensino da rede estadual", eu elaborei 5 perguntas:
-1) Considerando todos os tipos de ensino, calcule quantos alunos são de São José dos Campos.
-2) Vendo apenas a Região Metropolitana do Vale do Paraíba e Litoral Norte de São Paulo, quantos são alunos que completaram o “Ensino Médio” e alunos que completaram o “EJA Ensino Médio”?
-3) Quantas escolas existem em zonas “Rurais” e “Urbanas”?
-4) Quais os 3 municípios possuem maior concentração de escolas?
-5) Considerando todos os tipos de ensino quais são as 3 escolas possuem o maior número de alunos matriculados?
-Fórmulas utilizadas: SOMASE ; SOMA ; CONT.SES ; CONT.SE e Tabela Dinâmica.
-## Modelos dos gráficos:
-![Capturar2](https://github.com/user-attachments/assets/57638e08-a761-4a0e-b0fa-6ef138653bda)![Capturar1](https://github.com/user-attachments/assets/7e8650c0-25e5-4122-b342-e3fd853c16db)
-![Capturar4](https://github.com/user-attachments/assets/61dfbd78-73be-4f7f-92fb-93dd7718a4bc)![Capturar5](https://github.com/user-attachments/assets/7d2c7ac2-7683-4ace-85ca-cb43e95ce13f)
-Arquivo : [Atividade Informatica #4.zip](https://github.com/user-attachments/files/17384791/Atividade.Informatica.4.zip)
+## 🚀 Atividades desenvolvidas
 
-# 5ª Atividade
-Realizei um dashboard no Power BI com os dados da pasta "DadosAtv", são planilhas de vendas de lojas por muníncipio.
-## Modelos dos gráficos:
-![WhatsApp Image 2024-10-04 at 20 44 51](https://github.com/user-attachments/assets/d35bea24-cea6-440a-8dc3-099b01e90421)
-Arquivo : [Atividade informática #5.zip](https://github.com/user-attachments/files/17384786/Atividade.informatica.5.zip)
+### 📝 **1ª Atividade — Apresentação Interativa**
+Apresentação pessoal em grupo, desenvolvida no Canva, com interação e perguntas para a turma.  
+> 🔸 Arquivo não disponível.
 
-# 6ª Atividade
-Realizei um dashboard no Power BI com os dados da planilha "Quantidade de alunos estrangeiros por nacionalidade_2° Semestre 2023".
-## Modelos dos gráficos: 
-![WhatsApp Image 2024-10-04 at 19 29 46](https://github.com/user-attachments/assets/00998f88-d9b7-4cea-9f6c-ceae8262cac4)
-Arquivo : [Atividade Informatica #6.zip](https://github.com/user-attachments/files/17384784/Atividade.Informatica.6.zip)
+---
 
-# 7ª Atividade
-Realizei um dashboard no Power BI com os dados da planilha "Quantidade de alunos por tipo de ensino da rede estadual" respondendo as perguntas da 4ª atividade.
-## Modelos dos gráficos: 
-![WhatsApp Image 2024-10-15 at 17 32 29](https://github.com/user-attachments/assets/f2c406d6-581e-46b6-96ce-782359cf71ec)
-Arquivo : [Atividade #7.zip](https://github.com/user-attachments/files/17384767/Atividade.7.zip)
+### 📊 **2ª Atividade — Controle de Gastos no Excel**
+Desenvolvimento de uma planilha financeira utilizando:  
+**Fórmulas:** `SOMASE`, `SOMA`, `SE`, `CONT.SE`.  
 
-# 8ª Atividade
-Utilizando o Power BI com os dados da pasta "DadosAtv" respondi a 2º questão proposta pela professora.
-## Modelos dos gráficos: 
-![WhatsApp Image 2024-10-18 at 19 58 51](https://github.com/user-attachments/assets/3df31478-3394-45ee-af3c-d95a5efb8829)
-![Capturar](https://github.com/user-attachments/assets/21376d88-3442-43a8-b8fb-6e8e9b050c06)![Capturar3](https://github.com/user-attachments/assets/2cc16393-a1b2-4725-9ee7-f3265b4a0487)
-![Capturar2](https://github.com/user-attachments/assets/f23fb657-3d07-4dc6-9128-332ce8563c6d)
-Arquivo : [Atividade 8.zip](https://github.com/user-attachments/files/17441536/Atividade.8.zip)
+![Modelo da Planilha](https://github.com/user-attachments/assets/0cce4aa2-94b3-4488-9f66-bafb9beb9f9d)  
+📎 [Download da Planilha](https://github.com/user-attachments/files/17264378/Controle.de.gastos.xlsx)
 
-# 9ª Atividade
-Utilizando o Power BI com os dados da planilha "Quantidade de alunos por tipo de ensino da rede estadual_2023_2°SEMESTRE" elaborei e respondi 3 metas:
-![image (1)](https://github.com/user-attachments/assets/d378c922-e9b5-491b-b4b2-13894a09df2b)
+---
 
-## Modelos das visualizações em KPI: 
-![image](https://github.com/user-attachments/assets/3ebe49d5-ff8b-4a93-ac11-60954eb98ac8)
-Arquivo : [Atividade #9.zip](https://github.com/user-attachments/files/17595070/Atividade.9.zip)
+### 🌎 **3ª Atividade — Análise de Alunos Estrangeiros**
+Análise dos dados da Secretaria de Educação sobre alunos estrangeiros.  
+**Fórmulas aplicadas:** `SOMA`, `CONT.SE`, `SOMASE`, `CONCAT`, `MAIOR`.  
 
-# 10ª Atividade
-Utilizando o Power Apps criei um aplicativo de controle de itens, utilizando uma planilha criado pelo Copilot.
-## Visualizações do aplicativo em diferentes aparelhos: 
-Celular:
-![WhatsApp Image 2024-11-18 at 15 30 20](https://github.com/user-attachments/assets/712f48d9-a4b2-4db0-9627-0ebfaf4d3d62)
-Tablet:
-![WhatsApp Image 2024-11-18 at 15 31 34](https://github.com/user-attachments/assets/37340f53-13a6-494c-939f-799ae175dc1c)
-## Vídeo do aplicativo funcionando: 
-[Demonstração do App funcionando.zip](https://github.com/user-attachments/files/17804748/Demonstracao.do.App.funcionando.zip)
-## Link do aplicativo : 
-(https://apps.powerapps.com/play/e/2ce5e415-a59c-e6e1-a09e-495f4d2ff7e1/a/82ca5590-35ed-4d7b-a97f-894b244c1af1?tenantId=cf72e2bd-7a2b-4783-bdeb-39d57b07f76f&sourcetime=1731953655451)
+![Gráficos](https://github.com/user-attachments/assets/9bb45f28-9a14-4efb-b51a-575aad1902bc)  
+📎 [Download da Planilha](https://github.com/user-attachments/files/17264442/Atividade.Informatica.3.xlsx)
 
-# 11ª Atividade
-Realizei um dashboard no Power BI com os dados "Dados Quantidade Docentes Categoria Funcional", são planilhas csv com quantidade de docentes por categoria funcional.
-## Modelo dos gráficos:
-![WhatsApp Image 2024-11-28 at 22 47 18](https://github.com/user-attachments/assets/dcb0c675-e462-4c5a-a773-dead028586f3)
-Arquivo : [Análise dos dados da quantidade de docentes por categoria funcional.zip](https://github.com/user-attachments/files/17953466/Analise.dos.dados.da.quantidade.de.docentes.por.categoria.funcional.zip)
+---
+
+### 🏫 **4ª Atividade — Análise de Dados da Rede Estadual**
+Análise sobre quantidade de alunos, escolas e ensino na rede estadual de SP.  
+**Ferramentas:** Fórmulas (`SOMASE`, `SOMA`, `CONT.SES`, `CONT.SE`) e **Tabelas Dinâmicas**.  
+
+![Gráficos](https://github.com/user-attachments/assets/57638e08-a761-4a0e-b0fa-6ef138653bda)  
+📎 [Download dos Arquivos](https://github.com/user-attachments/files/17384791/Atividade.Informatica.4.zip)
+
+---
+
+### 📈 **5ª Atividade — Dashboard no Power BI (Vendas)**
+Criação de dashboard no Power BI com análise de vendas por município.  
+
+![Dashboard](https://github.com/user-attachments/assets/d35bea24-cea6-440a-8dc3-099b01e90421)  
+📎 [Download do Projeto](https://github.com/user-attachments/files/17384786/Atividade.informatica.5.zip)
+
+---
+
+### 📊 **6ª Atividade — Dashboard no Power BI (Alunos Estrangeiros)**
+
+Dashboard desenvolvido no Power BI com os dados da 3ª atividade.  
+
+![Dashboard](https://github.com/user-attachments/assets/00998f88-d9b7-4cea-9f6c-ceae8262cac4)  
+📎 [Download do Projeto](https://github.com/user-attachments/files/17384784/Atividade.Informatica.6.zip)
+
+---
+
+### 🏫 **7ª Atividade — Dashboard no Power BI (Rede Estadual)**
+
+Dashboard com os dados da 4ª atividade, utilizando filtros e gráficos dinâmicos.  
+
+![Dashboard](https://github.com/user-attachments/assets/f2c406d6-581e-46b6-96ce-782359cf71ec)  
+📎 [Download do Projeto](https://github.com/user-attachments/files/17384767/Atividade.7.zip)
+
+---
+
+### 📊 **8ª Atividade — Análise de Vendas no Power BI**  
+
+Dashboard e análise aprofundada de vendas utilizando dados da pasta "DadosAtv".  
+
+![Dashboard](https://github.com/user-attachments/assets/3df31478-3394-45ee-af3c-d95a5efb8829)  
+📎 [Download do Projeto](https://github.com/user-attachments/files/17441536/Atividade.8.zip)
+
+---
+
+### 🎯 **9ª Atividade — Análise de Metas e KPIs no Power BI**  
+
+Desenvolvimento de KPIs e análise de metas utilizando os dados da 4ª atividade.  
+
+![KPI](https://github.com/user-attachments/assets/3ebe49d5-ff8b-4a93-ac11-60954eb98ac8)  
+📎 [Download do Projeto](https://github.com/user-attachments/files/17595070/Atividade.9.zip)
+
+---
+
+### 📱 **10ª Atividade — Desenvolvimento de App no Power Apps**  
+
+Desenvolvimento de um aplicativo para controle de itens utilizando Power Apps.  
+
+![Mobile](https://github.com/user-attachments/assets/712f48d9-a4b2-4db0-9627-0ebfaf4d3d62)  
+📽️ [Demonstração do App](https://github.com/user-attachments/files/17804748/Demonstracao.do.App.funcionando.zip)  
+🔗 [Acessar o App](https://apps.powerapps.com/play/e/2ce5e415-a59c-e6e1-a09e-495f4d2ff7e1/a/82ca5590-35ed-4d7b-a97f-894b244c1af1?tenantId=cf72e2bd-7a2b-4783-bdeb-39d57b07f76f&sourcetime=1731953655451)  
+
+---
+
+### 👩‍🏫 **11ª Atividade — Análise de Dados sobre Docentes**  
+
+Dashboard no Power BI utilizando dados CSV sobre quantidade de docentes por categoria funcional.  
+
+![Dashboard](https://github.com/user-attachments/assets/dcb0c675-e462-4c5a-a773-dead028586f3)  
+📎 [Download do Projeto](https://github.com/user-attachments/files/17953466/Analise.dos.dados.da.quantidade.de.docentes.por.categoria.funcional.zip)
+
+---
+
+## 🔧 Tecnologias Utilizadas  
+
+- Microsoft Excel  
+- Power BI  
+- Power Apps  
+- SQL/MySQL (se teve)  
+- Canva (para apresentações)  
+- GitHub (versionamento e hospedagem)
+
+---
+
+## 📜 Licença  
+
+Este repositório é de uso acadêmico e pessoal, livre para consulta e aprendizado.  
+
+---
+
+## 🚀 Considerações finais  
+
+Esse repositório representa minha evolução no desenvolvimento de habilidades técnicas aplicadas à análise de dados, visualização de informações e soluções digitais, fundamentais para a Logística e para a transformação digital das empresas.  
+
+---
+
